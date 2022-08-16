@@ -1,6 +1,6 @@
 😃Ola!Eu sou a Andrea Rendl <p>
     ❤️Hoje estou estudando HTML e CSS <p>
-    👩‍🎓Cursando na universidade  SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET <p>
+    👩‍🎓Cursando na universidade TECNOLOGIA EM SISTEMAS PARA INTERNET <p>
     💻Focada no meu desenvolvimento acadêmico e profissional 
     <div>
     📧Contate-me no e-mail: andrearendl.developer@gmail.com 
