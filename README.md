@@ -1,5 +1,5 @@
 😃Ola!Eu sou a Andrea Rendl <p>
-    ❤️Hoje estou estudando HTML e CSS <p>
+    ❤️Hoje estou estudando HTML, CSS e JS<p>
     👩‍🎓Cursando na universidade TECNOLOGIA EM SISTEMAS PARA INTERNET <p>
     💻Focada no meu desenvolvimento acadêmico e profissional 
     <div>
